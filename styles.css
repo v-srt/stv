@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0;
+  background-color: #222;
+  color: #ddd;
+
+  min-height: 100vh;
+}
+
+pre {
+  height: 345px;
+  overflow-y: scroll;
+  margin-left: 1em;
+}
